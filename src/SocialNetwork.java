@@ -743,7 +743,6 @@ implements Constants {
    locationField.setText("");
   }
 
-
   //Change Cover Picture is clicked or user pressed enter after entering cimage name into the text field
   else if (e.getActionCommand().equals("Change Cover Picture")) {
 
